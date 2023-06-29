@@ -9,6 +9,10 @@ app = Flask(__name__)
 def home():
     return 'Welcome to Pimento! Ask ChatGPT for the pimento of the day.'
 
+@app.route('/logo')
+def flask_logo():
+    return app.send_static_file('logo.jpg')
+
 @app.route('/pimento_of_the_day')
 def pimento_of_the_day():
     current_path = os.path.dirname(os.path.abspath(__file__))

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pimiento de Padrón",
+    "description": "A small, mild chili pepper from Padrón, Spain. It is typically served fried and sprinkled with salt, although some can be surprisingly spicy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pementos_de_Padron.jpg/440px-Pementos_de_Padron.jpg"
+  },
+  {
+    "name": "Cherry Pepper",
+    "description": "Also known as pimiento pepper, it is a sweet, cherry-shaped pepper often used in pickling and as a stuffing for olives.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cherry_peppers.jpg/440px-Cherry_peppers.jpg"
+  },
+  {
+    "name": "Pimiento del Piquillo",
+    "description": "Originating from Spain, this red pepper is sweet and slightly spicy. It is often roasted, peeled, and used in various dishes and tapas.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pimientos_del_piquillo_rellenos.jpg/440px-Pimientos_del_piquillo_rellenos.jpg"
+  },
+  {
+    "name": "Sweet Banana Pepper",
+    "description": "This elongated, mild pepper has a tangy and sweet flavor. It is commonly used in salads, sandwiches, and pickled form on pizzas.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banana_Peppers_%28Armenia%29.jpg/440px-Banana_Peppers_%28Armenia%29.jpg"
+  },
+  {
+    "name": "Pimiento de Gernika",
+    "description": "Hailing from Gernika, Spain, this pepper is similar to Pimiento de Padrón. It is typically fried and served as a popular Basque dish.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pimiento_de_Gernika.jpg/1600px-Pimiento_de_Gernika.jpg"
+  },
+  {
+    "name": "Hungarian Wax Pepper",
+    "description": "A medium-hot chili pepper with a waxy yellow color that matures to red. It is commonly used in Hungarian cuisine, salsa, and pickling.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hungarian_wax_pepper.jpg/440px-Hungarian_wax_pepper.jpg"
+  },
+  {
+    "name": "Anaheim Pepper",
+    "description": "A mildly spicy pepper that originates from New Mexico but is commonly associated with California cuisine. It is often used in salsas and roasted dishes.",
+    "image_url": "https://static.wikia.nocookie.net/chilipeps/images/7/71/800px-Anaheim_Chili_Peppers.jpg/revision/latest/scale-to-width-down/180?cb=20141005232515"
+  },
+  {
+    "name": "Pepperoncini",
+    "description": "Also known as Tuscan peppers, these mild chili peppers are often pickled and used as a tangy addition to salads, sandwiches, and antipasti.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Capsicum_-Chili_-_Peperoncino_-_Il_Viagra_Calabrese_-_Calabria_-_Italy_-_July_17th_2013_-_02.jpg/440px-Capsicum_-Chili_-_Peperoncino_-_Il_Viagra_Calabrese_-_Calabria_-_Italy_-_July_17th_2013_-_02.jpg"
+  }
+]

@@ -1,5 +1,7 @@
 # Flask Pimentos Plugin Template
 
+![pimentos-img](https://firebasestorage.googleapis.com/v0/b/pluginlab.appspot.com/o/public%2Ftemplates%2Fflask-pimentos.jpg?alt=media&token=501b6f39-e871-466d-9bdf-cb2df61df470)
+
 This starter ChatGPT Plugin template allows you to use Flask 2 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
 To use it, you only have to follow the steps on [PluginLab](https://pluginlab.ai).
